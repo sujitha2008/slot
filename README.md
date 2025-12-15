@@ -24,7 +24,8 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
-```<!DOCTYPE html>
+```
+<!DOCTYPE html>
 <html>
 <head>
     <title>Slot Time Table - SUJITHA</title>
@@ -220,10 +221,12 @@ Execute the program using runserver command.
         </tr>
     </table>
 </body>
-</html>```
+</html>
+```
 
 ## OUTPUT
-<img width="1920" height="1080" alt="Screenshot 2025-12-10 120056" src="https://github.com/user-attachments/assets/8fb10846-ba05-4c78-99bc-fc8492876f31" />
+![Uploading Screenshot 2025-12-10 120056.png…]()
+
 
 
 ## RESULT
